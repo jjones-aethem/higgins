@@ -1,8 +1,12 @@
 ---
-title: "Magento Index"
+title: Magento Index
 draft: false
-tags: #magento
+tags:
+  - magento
+  - platforms
+  - ecommerce
 ---
-![Magento Logo](/images/Magento-Logo.png)
+![Magento Logo](Magento-Logo.png)
 [Primary Website](https://magento-opensource.com/)
+[GitHub Repository](https://github.com/magento/magento2)
 
