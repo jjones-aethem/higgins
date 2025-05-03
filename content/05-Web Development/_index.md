@@ -7,4 +7,4 @@ tags:
 
 
 
-[[content/index|Up to Main]]
+[[index|Up to Main]]
