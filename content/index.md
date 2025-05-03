@@ -14,47 +14,47 @@ Expect it to be updated somewhat ferociously and for things to constantly change
 ## Primary Sections:
 
 
-### [[02-Automation/_index|Automation]]
+### [[/Automation/_index|Automation]]
 Focused on streamlining repetitive tasks, this section includes tools and scripts for process automation. Expect content on CI/CD pipelines, configuration management with Ansible or Puppet, and scripting languages like Python or Bash for task automation.
 
   
 
-### [[04-Databases/_index|Databases]] 
+### [[/Databases/_index|Databases]] 
 Dedicated to data storage and management, this section covers relational databases like MySQL and PostgreSQL, as well as NoSQL options like MongoDB. You’ll find tutorials on database design, querying, optimization, and backups.
 
   
 
-### [[08-Documentation/_index|Documentation]] 
+### [[/Documentation/_index|Documentation]] 
 This section emphasizes creating and maintaining clear technical documentation. You’ll find tools like Markdown, Sphinx, or Confluence, along with tips for writing user guides, API docs, and system manuals.
 
   
 
-### [[01-Infrastructure/_index|Infrastructure]] 
+### [[/Infrastructure/_index|Infrastructure]] 
 This section covers the foundational components of IT systems, including hardware, virtualization, and cloud platforms. You’ll find resources on setting up and managing servers, data centers, and containerization tools like Docker and Kubernetes.
 
   
 
-### [[06-Networking/_index|Networking]]
+### [[/Networking/_index|Networking]]
 Focused on connectivity and communication, this section covers network protocols, routing, and security. Expect content on TCP/IP, DNS, VPNs, firewalls, and tools like Wireshark for network troubleshooting.
 
   
 
-### [[09-Niche/_index|Niche Systems]] 
+### [[/Niche/_index|Niche Systems]] 
 This section covers specialized or less common systems, such as embedded systems, legacy software, or industry-specific platforms. It includes resources on unique hardware, proprietary software, or obscure operating systems.
 
   
 
-### [[07-System Administration/_index|System Administration]]
+### [[/System Administration/_index|System Administration]]
 This section is about managing and maintaining operating systems, primarily Linux and Windows. It includes guides on user management, file systems, performance monitoring, and system security.
 
   
 
-### [[05-Web Development/_index|Web Development]]
+### [[/Web Development/_index|Web Development]]
 This section explores the tools and frameworks for building websites and web applications. It includes resources on HTML, CSS, JavaScript, frameworks like React or Django, and best practices for front-end and back-end development.
 
   
 
-### [[03-Web Servers/_index|Web Servers]]
+### [[/Web Servers/_index|Web Servers]]
 This section dives into the software that powers websites, such as Apache, Nginx, and IIS. It includes guides on server configuration, performance optimization, security hardening, and handling web traffic.
 
 
